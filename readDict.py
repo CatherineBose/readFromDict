@@ -9,3 +9,16 @@ def printDic(bio):
 
 
 printDic(dict1)
+
+# #to print all keys
+# for data in capitals:
+#      print data
+# #another way to print all keys
+# for key in capitals.iterkeys():
+#      print key
+# #to print the values
+# for val in capitals.itervalues():
+#      print val
+# #to print all keys and values
+# for key,data in capitals.iteritems():
+#      print key, " = ", data
